@@ -23,7 +23,7 @@ Use the directory below to view, rotate, and interact with the custom CAD module
 | **SONO TX-LID** | [🔗 Open 3D Viewer](./SONO%20TX%20-LID.stl) | Top protective enclosure lid for the transmitter node, complete with clear deburred branding reliefs. |
 | **SONO RX-BODY** | [🔗 Open 3D Viewer](./SONO%20RX-BODY.stl) | Main sensor node housing block designed to channel discrete shielded sensor lines. |
 | **SONO RX-LID** | [🔗 Open 3D Viewer](./SONO%20RX-LID.stl) | Upper cover shell layout designed to form a snug friction seal with the receiver body. |
-| **MAIN PROCESSING BOX** | [🔗 Open 3D Viewer](./SONOFRAME%20BODY-MAIN%20PROCESSING%20BOX.stl) | Central motherboard box (SF-01) with dedicated standoffs for the ESP32-S3, INA226 module, and dual OLED arrays. Includes integrated convective side ventilation. |
+| **MAIN PROCESSING BOX** | [🔗 Open 3D Viewer](./SONOFRAME%20BODY-MAIN%20PROCESSING%20BOX.stl) | Central motherboard box (SF-01) with dedicated standoffs for the ESP32-S3, INA226 module, and dual OLED arrays. |
 | **PROCESSING BOX LID** | [🔗 Open 3D Viewer](./SONOFRAME%20LID-MAIN%20PROCESSING%20BOX.stl) | Top operator interface plate showcasing portrait cutouts for the dual OLED window, joystick caps, and status LEDs. |
 
 ---
