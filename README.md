@@ -7,23 +7,23 @@ Welcome to our research project dashboard. Use the interactive menu below to vie
 ### 📦 Project Model Directory
 Click on any component below to launch the interactive 3D viewer:
 
-* **[🔗 View Model 1: SONO TX-BODY](https://github.com)**
-  * *Description:* Transmitter body component for the SONOFRAME system.
+* **[🔗 View Model: SONO RX-BODY](https://github.com)**
+  * *Purpose:* Receiver body component for the SONOFRAME system.
   
-* **[🔗 View Model 2: SONO TX -LID](https://github.com)**
-  * *Description:* Transmitter lid component designed to seal the transmitter body.
+* **[🔗 View Model: SONO RX-LID](https://github.com)**
+  * *Purpose:* Protective lid component for the receiver module.
 
-* **[🔗 View Model 3: SONO RX-BODY](https://github.com)**
-  * *Description:* Receiver body component for the SONOFRAME system.
+* **[🔗 View Model: SONO TX -LID](https://github.com)**
+  * *Purpose:* Protective lid component for the transmitter module.
 
-* **[🔗 View Model 4: SONO RX-LID](https://github.com)**
-  * *Description:* Receiver lid component designed to seal the receiver body.
+* **[🔗 View Model: SONO TX-BODY](https://github.com)**
+  * *Purpose:* Transmitter body component for the SONOFRAME system.
 
-* **[🔗 View Model 5: SONOFRAME BODY-MAIN PROCESSING BOX](https://github.com)**
-  * *Description:* Main housing body designed to protect the central processing electronics.
+* **[🔗 View Model: SONOFRAME BODY-MAIN PROCESSING BOX](https://github.com)**
+  * *Purpose:* Core housing unit for the main processing circuitry.
 
-* **[🔗 View Model 6: SONOFRAME LID-MAIN PROCESSING BOX](https://github.com)**
-  * *Description:* Top lid enclosure securely sealing the main processing unit.
+* **[🔗 View Model: SONOFRAME LID-MAIN PROCESSING BOX](https://github.com)**
+  * *Purpose:* Main enclosure lid for securing the processing box electronics.
 
 ---
-*Note: For the best interactive experience, please allow a moment for the 3D graphics to render after clicking a link.*
+*💡 Note for Judges: For the best experience, please allow a moment for the 3D graphics to render after clicking a link. You can use your mouse or finger to drag and rotate the models in 3D.*
